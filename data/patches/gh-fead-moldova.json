@@ -1,0 +1,40 @@
+{
+	"id": 392,
+	"name": "Moldova",
+	"description": "Republic of Moldova (Romanian: Republica Moldova), is a country in Eastern Europe, on the northeastern corner of the Balkans. Moldova is bordered by Romania to the west and Ukraine to the north, east, and south. Moldova is known for popular alcoholic beverages \"divin\" (Moldovan brandy), beer, and wine—of which the country is known for making high-quality offerings.",
+	"links": {
+		"subreddit": [
+			"moldova"
+		]
+	},
+	"path": {
+		"250": [
+			[
+				-425,
+				-642
+			],
+			[
+				-425,
+				-603
+			],
+			[
+				-393,
+				-603
+			],
+			[
+				-393,
+				-642
+			],
+			[
+				-425,
+				-642
+			]
+		]
+	},
+	"center": {
+		"250": [
+			-409,
+			-622
+		]
+	}
+}
